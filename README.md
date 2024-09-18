@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @astamm17534
+- 👋 Hi, I’m @arstamm
 - 🌱 I am a Computer Science major at BYU-I.
 - 👀 I enjoy cello, rubik's cubes, and hanging out with friends.
 
