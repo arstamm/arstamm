@@ -1,3 +1,5 @@
-- Hi, I’m Andrew Stamm (@arstamm)
-- I am a Computer Science major at BYU-I.
-- I enjoy playing cello, solving rubik's cubes, and hanging out with friends.
+- Hi 😁, I’m Andrew! (@arstamm) 
+- I'm a Computer Science Major 💻 at BYU Idaho.
+- I enjoy playing cello, solving Rubik's Cubes, and hanging out with friends.
+
+  www.linkedin.com/in/4ndrew5tamm/
