@@ -4,4 +4,4 @@
 
 ---
 
-  www.linkedin.com/in/4ndrew5tamm/
+  www.linkedin.com/in/andystamm/
