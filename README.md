@@ -1,4 +1,4 @@
-# Hi 😁, I’m Andrew! 
+# Hi 😁, I’m Andy! 
 - I'm a Computer Science Major at BYU Idaho.
 - I enjoy playing cello, solving Rubik's Cubes, and anything that involves being outside.
 
